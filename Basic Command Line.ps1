@@ -7,3 +7,7 @@ ls
 
 run <script>
 #Runs the script in the server.
+
+connect <server name>
+# Allows you to connect to any server with direct link
+
